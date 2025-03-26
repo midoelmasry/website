@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>حذف حساب - تطبيقك</title>
+    <style>
+        body { font-family: 'Tajawal', sans-serif; line-height: 1.6; }
+        .container { max-width: 800px; margin: auto; padding: 20px; }
+        h1 { color: #d32f2f; }
+        button { background: #d32f2f; color: white; border: none; padding: 10px 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>حذف حسابك من تطبيق مفاتيح المطبخ</h1>
+        <p>لحذف حسابك وكل بياناتك بشكل دائم:</p>
+        <ol>
+            <li>افتح التطبيق على جهازك</li>
+            <li>انتقل إلى "الإعدادات" → "حذف الحساب"</li>
+            <li>اتبع التعليمات الظاهرة</li>
+        </ol>
+        <p>سيتم حذف جميع بياناتك  :- من البريد الالكترونى والوصفات التى شاركتها ووصفاتك المفضلة </p>
+    </div>
+</body>
+</html>
